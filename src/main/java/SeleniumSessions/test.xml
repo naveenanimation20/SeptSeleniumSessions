@@ -1,0 +1,19 @@
+<ul class="e-list-parent e-ul " role="listbox" id="chip-customization_options"
+	aria-hidden="false">
+	<li class="e-list-item e-hide-listitem" id="5490-0" role="option"
+		data-value="#75523C" aria-selected="true">Chocolate</li>
+	<li class="e-list-item e-item-focus" id="5490-1" role="option"
+		data-value="#3B8289">CadetBlue</li>
+	<li class="e-list-item " id="5490-2" role="option" data-value="#FF843D">DarkOrange</li>
+	<li class="e-list-item " id="5490-3" role="option" data-value="#CA3832">DarkRed</li>
+	<li class="e-list-item e-hide-listitem" id="5490-4" role="option"
+		data-value="#D44FA3" aria-selected="true">Fuchsia</li>
+	<li class="e-list-item " id="5490-5" role="option" data-value="#F23F82">HotPink</li>
+	<li class="e-list-item e-hide-listitem" id="5490-6" role="option"
+		data-value="#2F5D81" aria-selected="true">Indigo</li>
+	<li class="e-list-item e-hide-listitem" id="5490-7" role="option"
+		data-value="#4CD242" aria-selected="true">LimeGreen</li>
+	<li class="e-list-item e-hide-listitem" id="5490-8" role="option"
+		data-value="#FE2A00" aria-selected="true">OrangeRed</li>
+	<li class="e-list-item " id="5490-9" role="option" data-value="#FF745C">Tomato</li>
+</ul>

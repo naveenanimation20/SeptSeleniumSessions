@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41662" started-at="2019-11-03T13:09:19Z" finished-at="2019-11-03T13:10:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41662" started-at="2019-11-03T13:09:19Z" finished-at="2019-11-03T13:10:01Z">
+      <class name="TestNGSessions.NetworkConditions">
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:TestNGSessions.NetworkConditions@6a4f787b]" name="test" duration-ms="21376" started-at="2019-11-03T13:09:19Z" data-provider="networkBandwidths" finished-at="2019-11-03T13:09:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:TestNGSessions.NetworkConditions@6a4f787b]" name="test" duration-ms="15785" started-at="2019-11-03T13:09:40Z" data-provider="networkBandwidths" finished-at="2019-11-03T13:09:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:TestNGSessions.NetworkConditions@6a4f787b]" name="test" duration-ms="4465" started-at="2019-11-03T13:09:56Z" data-provider="networkBandwidths" finished-at="2019-11-03T13:10:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- TestNGSessions.NetworkConditions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
