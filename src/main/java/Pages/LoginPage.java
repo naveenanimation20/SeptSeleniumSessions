@@ -1,6 +1,6 @@
 package Pages;
 
-public class LoginPage {
+public class LoginPage extends BasePage{
 	
 	String name;
 	int size;
@@ -16,6 +16,7 @@ public class LoginPage {
 	
 	public void login(String username, String password){
 		System.out.println("login to app....");
+		System.out.println("login successful....");
 	}
 	
 	
